@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    background-color: aliceblue;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    color: blanchedalmond;
+    font-size: x-large;
+    font-family: cursive;
+    text-shadow: 2px 4px gold;
+}
+
+main {
+    display: flex;
+    margin-left: 20;
+    gap: 20px;
+}
+
+article {
+    background-color: bisque;
+    padding: 10px;
+    font-size: larger;
+    border-radius: 8px;
+    box-shadow: 0 5px 8px gray;
+    text-align: center;
+}
+
+article a {
+    text-decoration: none;
+    font-family:'Courier New', Courier, monospace
+
+}
+section{
+    text-align: center;
+    padding:24px;
+    background-color: gray;
+    color: black;
+}
